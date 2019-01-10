@@ -2,6 +2,6 @@
 >>>>>>> Including algorithms during lessons, assignments and leetcode practices.
 >>>>>>>
 >>>>>>> ```
->>>>>>> ![leetcode](https://github.com/JiadiMo/CodePractice/blob/master/leetcode.png)
+>>>>>>> ![leetcode](https://github.com/JiadiMo/Coding_practice/blob/master/leetcode.png)
 >>>>>>> ```
 
